@@ -1,0 +1,59 @@
+#confirmedLabel {
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+#confirmedValueLabel {
+    color: #fff;
+    font-size: 100px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+#recoveredLabel {
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: -15px;
+
+}
+#recoveredValueLabel {
+    color: #fff;
+    font-size: 72px;
+    font-weight: 600;
+    margin-top: -15px;
+}
+#deathsLabel {
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: -15px;
+
+}
+#deathsValueLabel {
+    color: #fff;
+    font-size: 72px;
+    font-weight: 600;
+    margin-top: -15px;
+}
+.confirmedCard {
+    width: 448px;
+    height: 300px;
+    background-color: #52cee4;
+    border-radius: 13px;
+    padding: 20px;
+  }
+.recoveredCard {
+    width: 448px;
+    height: 150px;
+    background-color: #087030;
+    border-radius: 13px;
+    padding: 20px;
+  }
+.deathsCard {
+    width: 448px;
+    height: 150px;
+    background-color: #9c2121;
+    border-radius: 13px;
+    padding: 20px;
+  }
