@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/covid19-summary/static/css/main.566805f8.chunk.css",
-    "main.js": "/covid19-summary/static/js/main.a8db973c.chunk.js",
-    "main.js.map": "/covid19-summary/static/js/main.a8db973c.chunk.js.map",
+    "main.css": "/covid19-summary/static/css/main.cde70ec5.chunk.css",
+    "main.js": "/covid19-summary/static/js/main.ca4c7ca1.chunk.js",
+    "main.js.map": "/covid19-summary/static/js/main.ca4c7ca1.chunk.js.map",
     "runtime-main.js": "/covid19-summary/static/js/runtime-main.36635fdd.js",
     "runtime-main.js.map": "/covid19-summary/static/js/runtime-main.36635fdd.js.map",
     "static/css/2.ad8fe80d.chunk.css": "/covid19-summary/static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.b8df0793.chunk.js": "/covid19-summary/static/js/2.b8df0793.chunk.js",
-    "static/js/2.b8df0793.chunk.js.map": "/covid19-summary/static/js/2.b8df0793.chunk.js.map",
+    "static/js/2.e30036c7.chunk.js": "/covid19-summary/static/js/2.e30036c7.chunk.js",
+    "static/js/2.e30036c7.chunk.js.map": "/covid19-summary/static/js/2.e30036c7.chunk.js.map",
     "index.html": "/covid19-summary/index.html",
-    "precache-manifest.4a2654fa2b49ba278a85392ab69410ba.js": "/covid19-summary/precache-manifest.4a2654fa2b49ba278a85392ab69410ba.js",
+    "precache-manifest.3d682b19aceccccb4e6c0eaa68c12b1a.js": "/covid19-summary/precache-manifest.3d682b19aceccccb4e6c0eaa68c12b1a.js",
     "service-worker.js": "/covid19-summary/service-worker.js",
     "static/css/2.ad8fe80d.chunk.css.map": "/covid19-summary/static/css/2.ad8fe80d.chunk.css.map",
-    "static/css/main.566805f8.chunk.css.map": "/covid19-summary/static/css/main.566805f8.chunk.css.map",
-    "static/js/2.b8df0793.chunk.js.LICENSE.txt": "/covid19-summary/static/js/2.b8df0793.chunk.js.LICENSE.txt",
+    "static/css/main.cde70ec5.chunk.css.map": "/covid19-summary/static/css/main.cde70ec5.chunk.css.map",
+    "static/js/2.e30036c7.chunk.js.LICENSE.txt": "/covid19-summary/static/js/2.e30036c7.chunk.js.LICENSE.txt",
     "static/media/contagious-illness.png": "/covid19-summary/static/media/contagious-illness.60816b3c.png",
-    "static/media/death.png": "/covid19-summary/static/media/death.544bef5a.png",
-    "static/media/patient.png": "/covid19-summary/static/media/patient.69a16a4a.png"
+    "static/media/logoDDC.png": "/covid19-summary/static/media/logoDDC.3be875e0.png",
+    "static/media/patient.png": "/covid19-summary/static/media/patient.69a16a4a.png",
+    "static/media/tombstone.png": "/covid19-summary/static/media/tombstone.7280cca4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.36635fdd.js",
     "static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.b8df0793.chunk.js",
-    "static/css/main.566805f8.chunk.css",
-    "static/js/main.a8db973c.chunk.js"
+    "static/js/2.e30036c7.chunk.js",
+    "static/css/main.cde70ec5.chunk.css",
+    "static/js/main.ca4c7ca1.chunk.js"
   ]
 }
